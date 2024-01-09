@@ -8,9 +8,21 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        //test 1 branch
+
         //main branch
 
-        //test 1 branch
+        //test 2 branch
+
+        //main 1 branch
+
+        //test 3 branch
+
+        //test 2 branch 2
+
+        //main 2 branch
+
+        //main 3 branch
 
         //test 2 branch
 
@@ -27,5 +39,6 @@ class MainActivity : AppCompatActivity() {
         //main 3 branch
 
         //test 1 branch 16:53
+        //main branch 17:37
     }
 }
